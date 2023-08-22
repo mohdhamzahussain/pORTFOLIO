@@ -1,0 +1,64 @@
+   
+       
+    .text{
+        font-size: 35px;
+        color:gainsboro;
+        margin-left: 20px;
+        padding-top: 250px;
+    }
+    .text2{
+        font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        font-size:15px;
+        color:gainsboro;
+        margin-left: 20px;
+        padding-top: 8px;
+    }
+    .orion{
+        max-width: 20%;
+        height: auto;
+    }
+    *{
+        margin: 0;
+        padding: 0;
+    }
+a:hover{
+   color:cornflowerblue;}
+    .image{
+        width:100%;
+       background-color: darkslategray;
+        background-image: url("./moonbg.jpg");
+        background-size: cover;
+        overflow: auto;
+        background-image: no-repeat;
+        height: 100vh;}
+        
+    .connect
+    {  background-color: beige;
+        color:coral;
+        border-radius : 15px;
+        box-shadow: 1px 4px 2px 2px;
+        height: auto;
+        font-size: 30px;
+        margin-top:70px;
+        text-align: center;
+    }
+    .color{
+        color:coral;
+    }
+    .centerdiv{
+        display:flex;
+        justify-content: center;
+        align-items:left;
+        margin-top: 10px;
+    }
+    .anchor{
+        height:100px;
+        width:100px;
+       color:blueviolet;
+       background-color: #f5f6fa;
+       border-radius : 50px;
+       margin:10px;
+       text-align: center;
+       line-height: 120px;
+        box-shadow: 1px 4px 2px 2px;
+    }
